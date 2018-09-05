@@ -3,7 +3,7 @@ var animal = 'dog';
 function myAnimal() {
   return  aniimal;
 }
-
+myAnimal();
 
 function yourAnimal() {
   // How can we make sure that this function
